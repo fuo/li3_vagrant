@@ -25,8 +25,8 @@ The box is based on the default vagrant precise64 box. Credit for most of the mo
 #### Languages
 
  - PHP 5.4
- - Ruby latest
- - Python
+ - Ruby 1.9.3
+ - Python 2.7.3
 
 #### Webserver
 
